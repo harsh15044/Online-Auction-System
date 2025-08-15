@@ -5,7 +5,7 @@ function Navbar() {
     <div className="navbar">
         <nav>
             <div className="navbar-branding">
-                <img src="/logo.svg" alt="LOGO" className="app-logo"/>
+                <img src="/logo.png" alt="LOGO" className="app-logo"/>
                 <span className="app-name">AuctionApp</span>
             </div>
             <ul>
