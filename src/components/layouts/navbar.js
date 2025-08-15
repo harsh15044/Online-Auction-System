@@ -1,4 +1,4 @@
-
+import "../../styles/navbar.css"
 
 function Navbar() {
   return (
@@ -9,7 +9,8 @@ function Navbar() {
                 <span className="app-name">AuctionApp</span>
             </div>
             <ul>
-                <li> <a href="/settings">Settings</a></li>
+                <li><a href="/login">Login</a></li>
+                <li><a href="/settings">Settings</a></li>
             </ul>
         </nav>
     </div>
