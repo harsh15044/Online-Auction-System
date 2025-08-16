@@ -63,7 +63,12 @@ This project serves as a practical application of React concepts including:
 - Responsive design implementation
 
 ## Contributors
-This project was and will be developed in the future by a team of 4 Lambda Cores as their Learning Phase, [Adishesh]@AdisheshBalaji, [Harshvardhan]@harsh15044, [Ronit]@igiamronit, [Saadiq]@Saadiq8149
+This project was and will be developed in the future by a team of 4 Lambda Cores as their Learning Phase:  
+[Adishesh](https://github.com/AdisheshBalaji),  
+[Harshvardhan](https://github.com/harsh15044),  
+[Ronit](https://github.com/igiamronit),  
+[Saadiq](https://github.com/Saadiq8149)
+
 
 
 
